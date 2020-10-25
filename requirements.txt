@@ -22,7 +22,7 @@ importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396
 ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1598865816163/work
 ipython-genutils==0.2.0
-ipywidgets==7.5.1
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
 jdcal==1.4.1
 jedi @ file:///C:/ci/jedi_1598353661586/work
 Jinja2==2.11.2

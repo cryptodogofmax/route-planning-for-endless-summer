@@ -1,0 +1,84 @@
+appdirs==1.4.4
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+backcall==0.2.0
+black==20.8b1
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+certifi==2020.6.20
+cffi @ file:///C:/ci/cffi_1600699246375/work
+chardet==3.0.4
+click==7.1.2
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+et-xmlfile==1.0.1
+geojson==2.5.0
+gmaps==0.9.0
+googlemaps==4.4.2
+idna==2.10
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1598865816163/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jdcal==1.4.1
+jedi @ file:///C:/ci/jedi_1598353661586/work
+Jinja2==2.11.2
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+MarkupSafe==1.1.1
+mistune==0.8.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mypy-extensions==0.4.3
+nb-black==1.0.7
+nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
+nbconvert @ file:///C:/ci/nbconvert_1601914925608/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1601499549014/work
+notebook @ file:///C:/ci/notebook_1601501643625/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1596215850360/work
+openpyxl==3.0.5
+ortools==7.8.7959
+packaging==20.4
+pandas @ file:///C:/ci/pandas_1602083338010/work
+pandocfilters==1.4.2
+parso==0.7.1
+pathspec==0.8.0
+pickleshare==0.7.5
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.13.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pyparsing==2.4.7
+pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.2
+regex==2020.10.23
+requests==2.24.0
+Send2Trash==1.5.0
+six==1.15.0
+terminado==0.9.1
+testpath==0.4.4
+toml==0.10.1
+tornado==6.0.4
+tqdm==4.50.2
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+typed-ast==1.4.1
+typing-extensions==3.7.4.3
+urllib3==1.25.11
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+xlrd==1.2.0
+zipp @ file:///tmp/build/80754af9/zipp_1603306325174/work
